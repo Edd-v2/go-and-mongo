@@ -1,2 +1,1 @@
-# go-and-mongo
-Learning basics with go and mongo
+Test connection and query with mongo db and go
